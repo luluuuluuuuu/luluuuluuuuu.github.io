@@ -1,1 +1,1 @@
-export { SeededRandom } from "./seededRandom";
+export { SeededRandom } from './seededRandom';

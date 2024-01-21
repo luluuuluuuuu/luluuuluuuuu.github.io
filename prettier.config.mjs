@@ -1,7 +1,7 @@
 export default {
-    printWidth: 120,
-    tabWidth: 4,
-    singleQuote: false,
-    bracketSameLine: false,
-    trailingComma: "es5",
+  printWidth: 80,
+  tabWidth: 2,
+  singleQuote: true,
+  bracketSameLine: false,
+  trailingComma: 'all',
 };
